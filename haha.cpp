@@ -1,4 +1,6 @@
+ #include<stdlib.h>
 #include<stdio.h>
+#define MAX 10000
 //THUAT TOAN SAP XEP
 int N;
 int a[MAX];
